@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2014-06-02T11:47:43Z" product-name="address" target-language="it">
+    <header/>
+    <body>
+      <trans-unit id="switchableControllerActions.description" xml:space="preserve">
+				<source>Set the view you want to display</source>
+			<target state="needs-translation">Set the view you want to display</target></trans-unit>
+      <trans-unit id="switchableControllerActions.details" xml:space="preserve">
+				<source>List view shows all address records. Latest uses a time restriction, the rest should be understandable</source>
+			<target state="needs-translation">List view shows all address records. Latest uses a time restriction, the rest should be understandable</target></trans-unit>
+      <trans-unit id="settings.orderBy.description" xml:space="preserve">
+				<source>Define the sorting field</source>
+			<target state="needs-translation">Define the sorting field</target></trans-unit>
+      <trans-unit id="settings.orderDirection.description" xml:space="preserve">
+				<source>Define the sorting direction</source>
+			<target state="needs-translation">Define the sorting direction</target></trans-unit>
+      <trans-unit id="settings.dateField.description" xml:space="preserve">
+				<source>Select the field which is used to build the date menu.</source>
+			<target state="needs-translation">Select the field which is used to build the date menu.</target></trans-unit>
+      <trans-unit id="settings.categories.description" xml:space="preserve">
+				<source>Choose the categories to define which address items are displayed</source>
+			<target state="needs-translation">Choose the categories to define which address items are displayed</target></trans-unit>
+      <trans-unit id="settings.categoryConjunction.description" xml:space="preserve">
+				<source>Define how the selected categories are used</source>
+			<target state="needs-translation">Define how the selected categories are used</target></trans-unit>
+      <trans-unit id="settings.includeSubCategories.description" xml:space="preserve">
+				<source>Include all subcategories of the selected categories too.</source>
+			<target state="needs-translation">Include all subcategories of the selected categories too.</target></trans-unit>
+      <trans-unit id="settings.categoryConjunction.details" xml:space="preserve">
+				<source>&quot;Don't care&quot;: No category restriction is set. &quot;Show items with selected categories OR&quot;: A address records need to be related with at least one of the selected categories. &quot;Show selected categories AND&quot;. A address record need to be related to all selected categories. &quot;Do not show&quot; is the opposite of above.</source>
+			<target state="needs-translation">"Don't care": No category restriction is set. "Show items with selected categories OR": A address records need to be related with at least one of the selected categories. "Show selected categories AND". A address record need to be related to all selected categories. "Do not show" is the opposite of above.</target></trans-unit>
+      <trans-unit id="settings.archiveRestriction.description" xml:space="preserve">
+				<source>Choose between: 1) Show all address records, 2) Show only active address records, 3) Show only archived address records. The archive date is defined in each address record. If no archive date is set, the address record can't be archived.</source>
+			<target state="needs-translation">Choose between: 1) Show all address records, 2) Show only active address records, 3) Show only archived address records. The archive date is defined in each address record. If no archive date is set, the address record can't be archived.</target></trans-unit>
+      <trans-unit id="settings.timeRestriction.description" xml:space="preserve">
+				<source>Set a time limit. This can either be an integer and means seconds, e.g. 86400 means 1 day(60 * 60 * 24) or a string like &quot;-4 days&quot; or &quot;-3 hours&quot;. The prepended - is important! Only address items after the given time are shown.</source>
+			<target state="needs-translation">Set a time limit. This can either be an integer and means seconds, e.g. 86400 means 1 day(60 * 60 * 24) or a string like "-4 days" or "-3 hours". The prepended - is important! Only address items after the given time are shown.</target></trans-unit>
+      <trans-unit id="settings.timeRestrictionHigh.description" xml:space="preserve">
+				<source>Set a time limit. This can either be an integer and means seconds, e.g. 86400 means 1 day(60 * 60 * 24) or a string like &quot;-4 days&quot; or &quot;-3 hours&quot;. The prepended - is important! Only address items before the given time are shown.</source>
+			<target state="needs-translation">Set a time limit. This can either be an integer and means seconds, e.g. 86400 means 1 day(60 * 60 * 24) or a string like "-4 days" or "-3 hours". The prepended - is important! Only address items before the given time are shown.</target></trans-unit>
+      <trans-unit id="settings.topAddressRestriction.description" xml:space="preserve">
+				<source>A address record can be set as top address. Therefore it can be defined to show either all address records, only top address or only nontop address.</source>
+			<target state="needs-translation">A address record can be set as top address. Therefore it can be defined to show either all address records, only top address or only nontop address.</target></trans-unit>
+      <trans-unit id="settings.singleAddress.description" xml:space="preserve">
+				<source>Display the selected single address record.</source>
+			<target state="needs-translation">Display the selected single address record.</target></trans-unit>
+      <trans-unit id="settings.previewHiddenRecords.description" xml:space="preserve">
+				<source>If set, hidden records are also displayed. This is needed if you want to preview still hidden records. Be aware that any hidden records on the current page are shown as well.</source>
+			<target state="needs-translation">If set, hidden records are also displayed. This is needed if you want to preview still hidden records. Be aware that any hidden records on the current page are shown as well.</target></trans-unit>
+      <trans-unit id="settings.startingpoint.description" xml:space="preserve">
+				<source>Define the pages/sysfolders which hold the address records</source>
+			<target state="needs-translation">Define the pages/sysfolders which hold the address records</target></trans-unit>
+      <trans-unit id="settings.recursive.description" xml:space="preserve">
+				<source>Select the recursion level of the startingpoint.</source>
+			<target state="needs-translation">Select the recursion level of the startingpoint.</target></trans-unit>
+      <trans-unit id="settings.detailPid.description" xml:space="preserve">
+				<source>Select the page on which the detail view should be shown.</source>
+			<target state="needs-translation">Select the page on which the detail view should be shown.</target></trans-unit>
+      <trans-unit id="settings.backPid.description" xml:space="preserve">
+				<source>Select the page which is used to return to on detail view.</source>
+			<target state="needs-translation">Select the page which is used to return to on detail view.</target></trans-unit>
+      <trans-unit id="settings.listPid.description" xml:space="preserve">
+				<source>Select the page on which the list view is shown.</source>
+			<target state="needs-translation">Select the page on which the list view is shown.</target></trans-unit>
+      <trans-unit id="settings.limit.description" xml:space="preserve">
+				<source>Set the maximum amount of address records to be displayed</source>
+			<target state="needs-translation">Set the maximum amount of address records to be displayed</target></trans-unit>
+      <trans-unit id="settings.offset.description" xml:space="preserve">
+				<source>Set the offset to start with. E.g. 3 means that the first 2 records are not rendered.</source>
+			<target state="needs-translation">Set the offset to start with. E.g. 3 means that the first 2 records are not rendered.</target></trans-unit>
+      <trans-unit id="settings.topAddressFirst.description" xml:space="preserve">
+				<source>If checked: No matter which sorting is defined, top address are shown as first address records.</source>
+			<target state="needs-translation">If checked: No matter which sorting is defined, top address are shown as first address records.</target></trans-unit>
+      <trans-unit id="settings.disableOverrideDemand.description" xml:space="preserve">
+				<source>If checked, this plugin won't be influenced through the override demand settings which can be e.g. a category via URL parameter.</source>
+			<target state="needs-translation">If checked, this plugin won't be influenced through the override demand settings which can be e.g. a category via URL parameter.</target></trans-unit>
+      <trans-unit id="settings.tags.description" xml:space="preserve">
+				<source>Filter by given tags.</source>
+			<target state="needs-translation">Filter by given tags.</target></trans-unit>
+      <trans-unit id="settings.media.maxWidth.description" xml:space="preserve">
+				<source>Maximal width of media elements (images, videos, ...)</source>
+			<target state="needs-translation">Maximal width of media elements (images, videos, ...)</target></trans-unit>
+      <trans-unit id="settings.media.maxHeight.description" xml:space="preserve">
+				<source>Maximal height of media elements (images, videos, ...)</source>
+			<target state="needs-translation">Maximal height of media elements (images, videos, ...)</target></trans-unit>
+      <trans-unit id="settings.cropMaxCharacters.description" xml:space="preserve">
+				<source>Define the length of the teaser in chars. The teaser is typically cropped in the list view.</source>
+			<target state="needs-translation">Define the length of the teaser in chars. The teaser is typically cropped in the list view.</target></trans-unit>
+      <trans-unit id="settings.templateLayout.description" xml:space="preserve">
+				<source>Select a special layout for displaying address records.</source>
+			<target state="needs-translation">Select a special layout for displaying address records.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

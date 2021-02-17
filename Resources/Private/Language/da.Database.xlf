@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:t3="http://typo3.org/schemas/xliff" version="1.0">
+  <file t3:id="1471786343" source-language="en" datatype="plaintext" original="messages" date="2016-08-21T20:15:32Z" product-name="address" target-language="da">
+    <header/>
+    <body>
+      <trans-unit id="formEditor.elements.BaseFormElementMixin.editor.hideInEmail.label" xml:space="preserve">
+                <source>Hide in email</source>
+            <target state="needs-translation">Hide in email</target></trans-unit>
+      <trans-unit id="formEditor.elements.ContactLabel.label">
+        <source>Contact label</source>
+        <target state="needs-translation">Contact label</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
